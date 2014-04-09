@@ -1,0 +1,16 @@
+.body {
+
+
+}
+
+.nav-bar {
+	height: 60px;
+	width: 100%;
+	background-color: black;
+}
+
+.logo {
+	height: 60px;
+	width: 60px;
+	background-image: url("./images/hat.png")
+}
